@@ -18,7 +18,7 @@ Health Insurance Claims Analysis with Tableau Desktop v2026.1.0
 
 ## Overview
 - The dataset was chosen to assess heath insurance claims using Tableau Desktop v2026.1.0
-- The Exploratory Data Analysis mirrors teh Jupyter Notebook EDA
+- The Exploratory Data Analysis mirrors the Jupyter Notebook EDA
 
 ---
 
@@ -37,7 +37,7 @@ Health Insurance Claims Analysis with Tableau Desktop v2026.1.0
 
 
 <P>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -77,15 +77,28 @@ Instructions for using the project:
 ---
 
 ## Analysis & Visualizations 
-
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables 
-- Include important observations or correlations found in the data  
+- **The Smoking Premium:** Smokers face significantly higher claims costs overall compared to non-smokers, regardless of age
+- **The High-Risk Threshold:** A critical cost spike occurs for individuals with a BMI exceeding 30 who also smoke. 
+- **Regional Consistency:** Average BMI remains relatively uniform across regions, hovering between 29 and 32.
 
 ---
 
-## Dashboard
-- Show dashboard  ![Graph](img1.png)
+## Dashboard Preview
+![Insurance Claims Dashboard Preview](Insurance_Claims_Dashboard_Preview.png)
+![Insurance Claims Dashboard Preview - Southeast Region](Insurance_Claims_Dashboard-southeast-region_Preview.png)
+
+---
+
+<!-- ## Interactive Live Dashboard
+- **[Click here to view and interact with the Live Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+
+--- -->
+
+## Technical Features Demonstrated
+- Interactive dashboard action filtering (Filter by region or smoking status).
+- Custom Box-and-Whisker distribution analysis.
+- 100% Stacked bar chart implementations utilizing quick table calculations.
+- Data cleansing, type structuring, and metric aggregation management.
 
 ---
 ## Conclusion 
