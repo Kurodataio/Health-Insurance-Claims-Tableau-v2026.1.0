@@ -56,10 +56,10 @@ Step-by-step instructions to set up the project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Kurodataio/Health-Insurance-Claims-Tableau-v2026.1.0.git
 
 # Navigate to the project folder
-cd YOUR_REPO
+cd Health-Insurance-Claims-Tableau-v2026.1.0
 
 # Launch Tableau Desktop
 Tableau Desktop 
