@@ -1,5 +1,5 @@
 # Health-Insurance-Claims-Tableau-v2026.1.0
-Health Insurance Claims Analysis with Tableau Desktop v2026.1.0
+Health Insurance Claims Analysis with Tableau Desktop v2026.1.0, analyzing demographic and behavioral risk factors (Age, BMI, Smoking status) impacting medical insurance charges.
 
 
 ## Table of Contents
@@ -17,13 +17,14 @@ Health Insurance Claims Analysis with Tableau Desktop v2026.1.0
 ---
 
 ## Overview
-- The dataset was chosen to assess heath insurance claims using Tableau Desktop v2026.1.0
+- The dataset was chosen to assess health insurance claims using Tableau Desktop v2026.1.0
 - The Exploratory Data Analysis mirrors the Jupyter Notebook EDA
 
 ---
 
 ## Dataset
 - The dataset is Medical Cost Personal Datasets from Kaggle
+- This dataset was also used in the Jupyter notebook repo
 - Size of the dataset is 1338 rows and 7 columns
 
 ---
