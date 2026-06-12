@@ -85,7 +85,9 @@ Instructions for using the project:
 ---
 
 ## Dashboard Preview
+- Insurance Claims Dashboard Preview
 ![Insurance Claims Dashboard Preview](Insurance_Claims_Dashboard_Preview.png)
+- Insurance Claims Dashboard Preview - Southeast Region
 ![Insurance Claims Dashboard Preview - Southeast Region](Insurance_Claims_Dashboard-southeast-region_Preview.png)
 
 ---
