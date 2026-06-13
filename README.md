@@ -104,12 +104,17 @@ Instructions for using the project:
 - Data cleansing, type structuring, and metric aggregation management.
 
 ---
+
 ## Conclusion 
 
-- Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
+- Smoking is the biggest risk feature for high claims cost. This single driver puts an individual into a higher cost bracket regardless of age or BMI.
+- Obesity (BMI $\ge$ 30) acts as a compounding multiplier when associated with smoking. 
+- **Smoking and BMI combined are associated with the highest claims cost**
+- The Southeast region has the highest levels of smoking and obesity (high BMI) rates. Remediation could be targeted at this region as a priority.
+- The southeast region has the highest claims cost, which is associated with the highest number of smokers and obese people.
+- Further data and analysis is required to validated the surge in claims cost associated with smoking and BMI.
+  - What are the actual illnesses associated with high BMI and smoking?
+  - Are medical protocols and procedures initiated based on BMI and smoking signals or the actual presence of disease?
 
 ---
 
